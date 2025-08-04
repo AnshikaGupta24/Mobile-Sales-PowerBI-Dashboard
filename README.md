@@ -44,3 +44,9 @@ Day-wise and city-wise sales performance analysis
 
 10. How does the Page Navigator help in analyzing data across multiple dashboard views?
 
+## Demonstration:
+https://www.linkedin.com/posts/anshika-gupta-3b0598266_powerbi-dataanalytics-dashboarddesign-activity-7358191672385564672-hiGH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEE57TQBmaNX3tXDa3NuIo9fof44yr4QZLU
+
+
+
+
